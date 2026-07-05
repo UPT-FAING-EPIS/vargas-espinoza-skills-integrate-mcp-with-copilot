@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "local-tools": {
+      "command": "node",
+      "args": ["server.js"]
+    }
+  }
+}
